@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "aave-api",
-  "description": "Aave API",
+  "name": "pret-api",
+  "description": "Pret API",
   "keywords": [],
   "private": false,
   "license": "BSD-3-Clause",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:aave-tech/api-v2/aave-api.git"
+    "url": "git@github.com/pret-labs/pret-api.git"
   },
   "dependencies": {
     "@aave/protocol-js": "4.0.1",
